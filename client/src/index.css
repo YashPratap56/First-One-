@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@font-face {
+  font-family: 'BoldFont';
+  src: url('./assets/fonts/boldfont.otf') format('opentype');
+}
+@font-face {
+  font-family: 'mooxy';
+  src: url('./assets/fonts/mooxy.ttf') format('truetype');
+}
+
+
+
+*{
+    
+    box-sizing: border-box;
+    
+}
+body{
+
+  width: 100%;
+  height: 100vh;
+  background-color: #000000;
+  color: white;
+  
+  
+}
+
+
+
